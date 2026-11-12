@@ -1,6 +1,6 @@
 # Awesome-Contract-Risk-Assessment-Mitigation
 
-# Top Contract Risk Assessment & Mitigation Ecosystem
+## Top Contract Risk Assessment & Mitigation Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Clause-Level Risk Scoring, Playbook Enforcement & Automated Redlining*  
