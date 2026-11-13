@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jc4xtF58Ve)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Contract-Risk-Assessment-Mitigation?style=social)](https://github.com/ishandutta2007/Awesome-Contract-Risk-Assessment-Mitigation/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Contract-Risk-Assessment-Mitigation?style=social)](https://github.com/ishandutta2007/Awesome-Contract-Risk-Assessment-Mitigation/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
@@ -81,9 +81,9 @@ All enterprise SaaS tools below offer clause extraction, legal risk scoring, and
 
 ## 💻 Open-Source GitHub Projects
 
-This curated table highlights major active open-source repositories for self-hosted contract risk assessment, automated redlining, AI agent skills, and clause analysis. Repositories are ranked in descending order by **GitHub Star Count**:
+This curated table highlights major active open-source repositories for self-hosted contract risk assessment, automated redlining, AI agent skills, and clause analysis. Repositories are ranked in descending order by **GitHub Stars_Count**:
 
-| Project | Stars | Description | Focus Area |
+| Project | GitHub_Stars | Description | Focus Area |
 |---------|-------|-------------|------------|
 | **[ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude)** | [![Stars](https://img.shields.io/github/stars/zubair-trabzada/ai-legal-claude?style=social&color=white)](https://github.com/zubair-trabzada/ai-legal-claude/stargazers) | 🤖 Comprehensive AI Legal Assistant skill featuring 14 legal skills and 5 parallel agent workflows. Performs full contract review, risk analysis, compliance audits, negotiation strategy, and PDF report generation. | Agent Skills &amp; Multi-Agent Workflows |
 | **[cuad](https://github.com/The-Atticus-Project/cuad)** | [![Stars](https://img.shields.io/github/stars/The-Atticus-Project/cuad?style=social&color=white)](https://github.com/The-Atticus-Project/cuad/stargazers) | 📚 **Contract Understanding Atticus Dataset (CUAD)** (NeurIPS). The foundational benchmark dataset and transformer pipeline for legal contract review, fine-tuned across 41 distinct commercial contract risk categories. | Core Legal NLP Benchmark &amp; Extraction |
@@ -114,7 +114,7 @@ Contributions from legal practitioners, legal ops teams, and software engineers 
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a feature branch: `git checkout -b add-new-tool`
-3. ✏️ Add your tool to `README.md` following the exact table structure (ensure accurate star badges and factual starting pricing/limits).
+3. ✏️ Add your tool to `README.md` following the exact table structure (ensure accurate Stars_Badges and factual starting pricing/limits).
 4. 🚀 Push to your branch and submit a **Pull Request**.
 
 ---
